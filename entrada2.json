@@ -1,0 +1,47 @@
+{ 
+    "operaciones":[
+        {
+        "operacion":"suma",
+        "valor1":4.5,
+        "valor2":5.32
+        }, 
+      
+            ]
+        },
+        {
+        "operacion":"suma",
+        "valor1":[
+            {
+                "sfgsdfgsdfbsdfgsdgf
+sdfgsdfgsdfgsdfg
+sdfgsdfsgdfgertjyujhumksxhyxshykxd
+            }
+        ],
+        "valor2":5.32
+        },
+        {
+        "operacion":"multiplicacion",
+        "valor1":7,
+        "valor2":3
+        },
+        {
+        "o,
+        "valor2":3
+        }
+    ],
+    "configuraciones":[
+        {
+      
+        }
+    ]
+}
+
+
+
+
+
+
+
+
+
+
